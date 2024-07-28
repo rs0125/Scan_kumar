@@ -1,0 +1,98 @@
+{
+    "Engineering Chemistry": [
+        {
+            "Question": "What is the chemical formula of water?",
+            "Year": 2021,
+            "Type": "Chemistry"
+        },
+        {
+            "Question": "Explain the pH scale.",
+            "Year": 2020,
+            "Type": "Chemistry"
+        },
+        {
+            "Question": "What is the chemical formula of water?",
+            "Year": 2021,
+            "Type": "Chemistry"
+        },
+        {
+            "Question": "Explain the pH scale.",
+            "Year": 2020,
+            "Type": "Chemistry"
+        },
+        {
+            "Question": "What is the chemical formula of water?",
+            "Year": 2021,
+            "Type": "Chemistry"
+        },
+        {
+            "Question": "Explain the pH scale.",
+            "Year": 2020,
+            "Type": "Chemistry"
+        }
+    ],
+    "Engineering Physics": [
+        {
+            "Question": "What is the speed of light?",
+            "Year": 2020,
+            "Type": "Physics"
+        },
+        {
+            "Question": "Explain Newton's second law of motion.",
+            "Year": 2019,
+            "Type": "Physics"
+        },
+        {
+            "Question": "What is the speed of light?",
+            "Year": 2020,
+            "Type": "Physics"
+        },
+        {
+            "Question": "Explain Newton's second law of motion.",
+            "Year": 2019,
+            "Type": "Physics"
+        },
+        {
+            "Question": "What is the speed of light?",
+            "Year": 2020,
+            "Type": "Physics"
+        },
+        {
+            "Question": "Explain Newton's second law of motion.",
+            "Year": 2019,
+            "Type": "Physics"
+        }
+    ],
+    "Mathematics": [
+        {
+            "Question": "What is the integral of x^2?",
+            "Year": 2021,
+            "Type": "Mathematics"
+        },
+        {
+            "Question": "Solve the differential equation dy/dx = 3y.",
+            "Year": 2020,
+            "Type": "Mathematics"
+        },
+        {
+            "Question": "What is the integral of x^2?",
+            "Year": 2021,
+            "Type": "Mathematics"
+        },
+        {
+            "Question": "Solve the differential equation dy/dx = 3y.",
+            "Year": 2020,
+            "Type": "Mathematics"
+        },
+        {
+            "Question": "What is the integral of x^2?",
+            "Year": 2021,
+            "Type": "Mathematics"
+        },
+        {
+            "Question": "Solve the differential equation dy/dx = 3y.",
+            "Year": 2020,
+            "Type": "Mathematics"
+        }
+    ]
+}

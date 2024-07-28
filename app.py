@@ -40,7 +40,11 @@ def review():
     option = request.form['options']
     return render_template("admin_sub_review.html", title="review submission", sem=option)
 
-
+@app.route('/submit', methods=['POST'])
+def submit():
+    if request.method == 'POST':
+        information = request.form
+    return render_template("submit.html",data=information)
 
 if __name__ == '__main__':
     app.run(debug=True)
