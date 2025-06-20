@@ -1,0 +1,2 @@
+This project is a prototype web application for hosting VIT's previous year question papers, built by scanning and processing old papers using Optical Character Recognition (OCR).The scanned documents are digitized and organized into a searchable repository for easy student access. 
+The tech stack includes Python, Tesseract OCR, Flask for the backend, and HTML/CSS for the frontend. It aims to streamline academic preparation by making  exam resources easily accessible.
